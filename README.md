@@ -1,7 +1,14 @@
-### Brunno Cunha Mousquer de Oliveira - [Data Engineer]
+### Brunno Oliveira - AI Developer | MLOps
 
-Eu sou formado em Análise e Desenvolvimento de sistemas e com especialização em Big Data (IGTI) e Inteligência Artificial Aplicada (UFPR, formando em 2022), tenho experiência com engenharia de software, modelagem e analise de dados. Minhas últimas experiências profissionais foram com modelagem de dados, construção de ETL e pipelines de machine learning. 
-Utilizando em meu dia a dia as linguagens de programação Python e SQL.
+AI & Machine Learning Engineer with expertise in building scalable AI infrastructure and production-ready ML systems. Currently at Volkswagen Group Digital Solutions' AI Center of Enablement, where I develop reusable generative AI frameworks and tools on AWS to drive enterprise AI adoption across multiple teams.
+
+**Core expertise:** Python, SQL, AWS & GCP, MLOps, Generative AI, Machine Learning deployment, containerization, and cloud-native architectures.
+
+**Experience highlights:**
+- Building generative AI infrastructure using AWS CDK for enterprise-scale solutions
+- Designing and deploying ML models for forecasting, NLP, and optimization (GCP/Vertex AI)
+- End-to-end data engineering: ETL pipelines, data platforms, and real-time ML microservices
+- Delivered solutions across retail, operations, and digital businesses with measurable business impact
 
 ### Connect with me:
 
